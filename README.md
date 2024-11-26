@@ -74,10 +74,11 @@
 
 #### GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadosama9&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadosama9&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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" alt="GitHub Stats" />
 </p>
 
 #### Streak Stats
 <p>
   <img align="center" src="https://streak-stats.demolab.com/?user=ahmadosama9&theme=radical" alt="GitHub Streak" />
 </p>
+

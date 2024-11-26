@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadosama9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadosama9" /> </p>
 
-- 🔭 I’m currently focusing on **learning cloud engineering**
+- 🔭 I’m currently focusing on **full-stack development** and **learning cloud engineering**.
 
 - 🌱 I’m currently learning **studying software engineering at Cairo University**
 

@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
-<h3 align="center">A passionate fullstack developer.</h3>
+<h3 align="center">
+  A Final-Year Computer Science Student (2021–2025) at Cairo University <br />
+  and a Passionate Fullstack Developer.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadosama9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadosama9" /> </p>
 

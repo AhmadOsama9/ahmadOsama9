@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-3d-portfolio.onrender.com/](https://my-3d-portfolio.onrender.com/)
 
-- 💬 Ask me about **React, Express, MongoDB**
+- 💬 Ask me about **full-stack development**, **React**, **Node.js**, **Express**, **NestJS**, **MongoDB**, **PostgreSQL**, **AWS**, **Docker**, **CI/CD**, **cloud engineering**, **blockchain development**, and **scalable backend architectures**.
 
 - 📫 How to reach me: **ahmedosamaa975@gmail.com**
 

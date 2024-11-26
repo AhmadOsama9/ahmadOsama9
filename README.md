@@ -74,8 +74,9 @@
 
 #### GitHub Stats
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadosama9&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{ secrets.TOKEN }} alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadosama9&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
 
 #### Streak Stats
 <p>

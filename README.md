@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently studying **software engineering at Cairo University**
 
-- 👨‍💻 All of my projects are available at [https://my-3d-portfolio.onrender.com/](https://my-3d-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio ](https://devbyahmed.onrender.com)
 
-- 💬 Ask me about **full-stack development**, **React**, **Node.js**, **Express**, **NestJS**, **MongoDB**, **PostgreSQL**, **AWS**, **Docker**, **CI/CD**, **cloud engineering**, **blockchain development**, and **scalable backend architectures**.
+- 💬 Ask me about **React**, **Node.js**, **Express**, **NestJS**, **MongoDB**, **PostgreSQL**, **AWS**, **Docker**, **CI/CD**, **cloud engineering**, and **scalable backend architectures**.
 
-- 📫 How to reach me: **ahmedosamaa975@gmail.com**
+- 📫 How to reach me: **ahmedosama.dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

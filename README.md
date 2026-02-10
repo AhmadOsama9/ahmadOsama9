@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently studying **software engineering at Cairo University**
 
-- 👨‍💻 All of my projects are available at [My Portfolio ](https://devbyahmed.onrender.com)
+- 👨‍💻 All of my projects are available at [My Portfolio ](https://aosama.dev)
 
 - 💬 Ask me about **React**, **Node.js**, **Express**, **NestJS**, **MongoDB**, **PostgreSQL**, **AWS**, **Docker**, **CI/CD**, **cloud engineering**, and **scalable backend architectures**.
 

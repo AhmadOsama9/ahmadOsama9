@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
 <h3 align="center">
-  A Final-Year Computer Science Student (2021–2025) at Cairo University <br />
-  and a Passionate Fullstack Developer.
+  Backend Engineer | AWS Certified Developer – Associate | Cairo University Graduate (2025) <br />
 </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ahmadosama9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadosama9" />
 </p>
 
-- 🔭 I’m currently focusing on **full-stack development** and **learning cloud engineering**.
+- 🔭 I’m currently working on backend systems and serverless applications using **Python, AWS Lambda, API Gateway, and Terraform**.
 
-- 🌱 I’m currently studying **software engineering at Cairo University**
+- 🌱 I’m interested in **scalable architectures, cloud engineering, and AI-powered backend systems**. 
 
 - 👨‍💻 All of my projects are available at [My Portfolio ](https://aosama.dev)
 
-- 💬 Ask me about **React**, **Node.js**, **Express**, **NestJS**, **MongoDB**, **PostgreSQL**, **AWS**, **Docker**, **CI/CD**, **cloud engineering**, and **scalable backend architectures**.
+- 💬  Ask me about **Python, Node.js, AWS, serverless architectures, CI/CD, Docker, databases, and scalable backend systems**.
 
 - 📫 How to reach me: **ahmedosama.dev@outlook.com**
 

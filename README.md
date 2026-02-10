@@ -99,7 +99,7 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=ahmadosama9&theme=radical&count_private=true" alt="GitHub Streak" />
 </p>
 
-#### Top Languages
+<!-- #### Top Languages
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadosama9&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -107,7 +107,7 @@
 #### GitHub Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadosama9&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
 
 
